@@ -1,19 +1,29 @@
-<h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
+<p align="center">
+  <img width="300px" src="https://user-images.githubusercontent.com/13790608/230697094-3c4f6836-bbcd-42fb-b770-f6698fb4cf7e.png">
+</p>
+
+>*Este repositório foi criado para armazenar as soluções dos desafios propostos no Bootcamp Java Developer, uma parceria DIO (Digital Innovation One) com o Banco PAN.*
+
+<h1>Projeto Spring Data JPA na Prática com Java</h1>
 <p> Projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
-<p>Ao final deste projeto, o Dev conhecerá os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
+<p>Treinar habilidaes de desenvolvimento de software com os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
 
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
+| - | - | - | - |
+|---|---|---|---|
+|<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>|Java|<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>|Spring Framework|
+|<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>|GIT|<img width="30px" src="https://user-images.githubusercontent.com/13790608/230699259-29f91eda-dd18-4d7d-8ad3-e5fabd71663b.png"/>|GitHub|
+|<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>|PostgreSQL|<img width="30px" src="https://user-images.githubusercontent.com/13790608/230749826-89ea1de0-db74-406f-9a25-0b5027627ab7.png"/>|Maven
+
 <ul>
     <li>IDE IntelliJ</li>
     <li>Java 11</li>
-    <li>Maven</li>
     <li><strong>Spring Web</strong></li>
     <li><strong>Spring Data JPA</strong></li>
-    <li><strong>PostgreSQL Driver</strong></li>
     <li><strong>Hibernate Validator</strong></li>
     <li>Lombok</li>
     <li>Postman</li>
