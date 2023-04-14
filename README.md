@@ -8,7 +8,7 @@
 <p> Projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
-<p>Treinar habilidaes de desenvolvimento de software com os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
+<p>Treinar habilidades de desenvolvimento de software com os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
 
 
 <h2>🛠 Tecnologias Utilizadas</h2>
